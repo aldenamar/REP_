@@ -1,4 +1,4 @@
-# REP_
+# MATERIALES DE LA ASIGNATURA
 # # mi primer repositorio
 Trabajo del diplomado **'articulo'**
 >Todo la informacion de este repositorio son articulos
